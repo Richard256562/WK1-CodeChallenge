@@ -1,9 +1,10 @@
+// Calculate an individuals Net Salary by getting the inputs of basic salary and benefits.
 let salary;
 let benefits;
 let NHIF;
 let NSSF;
 let PAYE;
-function salCalc(salary, benefits){
+function salCalculator(salary, benefits){
     let gross = salary + benefits;
     let NSSF = gross * 0.06;
     // let netCalculator = gross;
@@ -60,4 +61,4 @@ console.log('Gross salary:', gross)
     return netSalary;
 }
 }
-        console.log(salCalc(100000, 5000));
+        console.log(salCalculator(105000, 5000));
