@@ -5,7 +5,7 @@
 // if speed is 80 print 2 points
 // more than 12 points license suspended
 
-let totalSpeed = prompt ("enter total Speed here")
+
 let speed;
 function speedDetector(speed){
     if(speed < 70){

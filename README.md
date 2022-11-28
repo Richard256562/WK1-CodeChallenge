@@ -1,13 +1,13 @@
-Name of the Project
-Week 1 Code Challenge
+Project Name
+WK 1 Code Challenge
 # Project Description
-The code challenge was constituted of three challenges:
+The code challenge invovled  three challenges namely:
 1. Student Grade Generator
 2. Speed Detector 
 3. Net Salary Calculator
 ## Project Setup
 ### Requirements
-Text Editor e.g Visual Studio Code
+ Visual Studio Code(VS)
 [language] : [Javascript]
 # Author
 Richard Okongo
