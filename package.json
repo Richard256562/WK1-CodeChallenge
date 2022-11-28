@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Richard256562/WK1-CodeChallenge/issues"
   },
-  "homepage": "https://github.com/Richard256562/WK1-CodeChallenge#readme"
+  "homepage": "https://github.com/Richard256562/WK1-CodeChallenge#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }

@@ -1,3 +1,5 @@
+const PromptSync = require("prompt-sync");
+
 // Calculate an individuals Net Salary by getting the inputs of basic salary and benefits.
 let salary;
 let benefits;

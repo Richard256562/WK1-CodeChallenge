@@ -6,8 +6,10 @@ C -  59 to 49
 D - 40 to 49 
 E - less 40.
 */
-let  totalmarks = prompt("please enter marks")
-let grade;
+
+// Prompts user to input student  total marks
+let totalMarks = prompt( 'Please enter marks ')
+let grade
 function checkGrade(grade){
 if (grade > 79){
     return 'A'
